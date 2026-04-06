@@ -1,0 +1,6 @@
+# GhostRecon v1.0 — Requirements
+# Install with: pip install -r requirements.txt
+
+requests==2.31.0
+dnspython==2.4.2
+beautifulsoup4==4.12.2
